@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Dariusz Cebula
 
-<!--
-**sQbanv/sQbanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **third-year Computer Science student at AGH University of Science and Technology**. I'm currently looking for an **internship** to gain new expierience and develop my skills in software development.
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Proficient in:**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,react,spring,express,nodejs,bootstrap,git,github,md,postman,vscode,idea,pycharm)](https://skillicons.dev)
+
+### **Basic knowledge of:**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,c,elixir,tailwind,fastapi,flask,mongodb,sqlite,opencv,postgres,pug,r,sklearn,linux,figma)](https://skillicons.dev)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcebula/)  
